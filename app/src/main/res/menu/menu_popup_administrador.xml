@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/agregarProductoAdmin"
+        android:title="Agregar Producto" />
+    <item
+        android:id="@+id/verSolicitudAdmin"
+        android:title="Solicitudes Pendientes" />
+    <item
+        android:id="@+id/verPedidosAdmin"
+        android:title="Historial de Préstamos" />
+    <item
+        android:id="@+id/gestionarProductosAdmin"
+        android:title="Gestionar Productos" />
+    <item
+        android:id="@+id/cerrarSesionAdmin"
+        android:title="Cerrar sesión" />
+</menu>

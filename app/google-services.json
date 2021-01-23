@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687122672830",
+    "project_id": "droneapp-ddb19",
+    "storage_bucket": "droneapp-ddb19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687122672830:android:3d892774fe77bd5bd542ef",
+        "android_client_info": {
+          "package_name": "pe.edu.pucp.droneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687122672830-2f8us4itjh2ndl71fjhijep8ji9l9g0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.pucp.droneapp",
+            "certificate_hash": "9a3e267182f8a85e43268eac0e5eceb2562bf424"
+          }
+        },
+        {
+          "client_id": "687122672830-qvg4ekgpapmuo959v0gukqq6d6tb46ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN44YMww62mvVcIpN75kXcUiqDwrttfk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687122672830-qvg4ekgpapmuo959v0gukqq6d6tb46ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
